@@ -2,11 +2,11 @@
   "name": "LINE Messaging API test1 ",
   "description": "Messaging apiのテスト",
   "keywords": ["php", "line-messaging-api"],
-  "repository": "https://github.com/web/web.git",
+  "repository": "https://github.com/kyo-hei/web",
   "logo": "https://raw.githubusercontent.com/xxx/xxx/master/logo.png",
   "env": {
     "LINE_CHANNEL_ACCESS_TOKEN": {
-        "description": "Channel Access Token (LINE developers の Basic information で確認できます)"
+        "description": "kPC2No+KO3DU80sAnvx7D3FfyEnIvsnuNFzu/n5ALaTaiZTK8665IZad/hG9VfurFjkVT6upZWy4G4Hg6gulOUVIh1sKRW37jsi6iq5q2pIPJYMuCKS2J+5SldLaGprZC2cwnGhPzSFQd3ay5j+xeQdB04t89/1O/w1cDnyilFU="
          }
   }
 }
